@@ -42,13 +42,6 @@ A Streamlit dashboard for exploring driver and constructor performance, circuits
 
 [Repository](https://github.com/olcesefacundo97/dashboard-f1-streamlit) · [Live demo](https://dashboard-f1-app-mw5qn2usae925pwjhrkumf.streamlit.app)
 
-### Credit Card Fraud Detection
-A reproducible machine learning workflow for an imbalanced classification problem, emphasizing model comparison and metrics that reflect fraud detection trade-offs.
-
-**Demonstrates:** Python, Scikit-learn, preprocessing, class imbalance, precision, recall, PR-AUC, and model evaluation.
-
-[Repository](https://github.com/olcesefacundo97/fraud-detection-ml)
-
 ## Skills and tools
 
 - **Analysis and delivery:** requirements analysis, process documentation, functional testing, API testing with Postman, Jira, stakeholder coordination.
