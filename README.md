@@ -1,120 +1,61 @@
-# Data & AI Portfolio – Facundo Olcese
+# Facundo Olcese — Data, AI & Product Delivery
 
-I build practical data solutions that connect **business understanding**, **data analysis**, **automation** and **AI-powered workflows**.
+Functional Analyst building practical data and AI solutions. I connect business needs with technical implementation through requirements analysis, data validation, process documentation, QA, and Python/SQL projects.
 
-This portfolio presents projects focused on Python, SQL, exploratory data analysis, machine learning, dashboards, data pipelines and applied artificial intelligence.
+**Current focus:** Data Analytics · Data Engineering · Applied AI · Functional Analysis
 
-## About Me
+[LinkedIn](https://www.linkedin.com/in/olcesefacundo97) · [GitHub](https://github.com/olcesefacundo97) · [Email](mailto:olcesefacundo97@gmail.com)
 
-I am a Functional Analyst with a strong focus on data, automation and AI. My background allows me to connect business needs with technical solutions, document requirements clearly, validate information across systems and generate insights that support decision-making.
+## About
 
-My goal is to grow in Data Analytics, Data Science and AI Automation roles, combining analytical thinking with hands-on technical execution.
+I work as a Functional Analyst at Geosystems, supporting public-sector geospatial platforms and digital products. My work includes requirements and technical documentation, API and integration testing, issue analysis, and coordination between technical teams and stakeholders.
 
-## Featured Portfolio Projects
+I completed a Higher Technical Degree in Data Science and AI and am pursuing a Bachelor's degree in Data Science. I use portfolio projects to explore analytics, data pipelines, machine learning, and AI product workflows.
 
-### 1. Gemma Functional Analyst Copilot
-AI-powered workspace for Functional Analysts, Business Analysts, QA Analysts and Product Owners. It transforms messy requirements into structured delivery artifacts using Google Gemma.
+## Selected projects
 
-**Focus:** AI automation, prompt engineering, requirements analysis, FastAPI backend, React frontend, product workflow.
+### Restaurant Demand Data Pipeline
+An end-to-end analytics pipeline that combines synthetic restaurant transactions with public weather data, validates the inputs, loads an idempotent PostgreSQL model, and prepares BI-ready outputs for Metabase.
 
-**Skills:** Python, FastAPI, React, TypeScript, Google AI Studio, prompt engineering, product thinking.
+**Demonstrates:** Python, Pandas, REST APIs, data quality, PostgreSQL, SQL, Airflow, Docker, CI, and analytical modeling.
 
-[Open repository](https://github.com/olcesefacundo97/gemma-functional-analyst-copilot)
+[Repository](https://github.com/olcesefacundo97/restaurant-demand-pipeline)
 
----
+### AdTech Campaign Intelligence Agent
+A full-stack prototype for analyzing campaign briefs, delivery data, and supporting documents. Deterministic KPI calculations are combined with evidence retrieval and a traceable LangGraph workflow.
 
-### 2. Fraud Detection using Machine Learning
-End-to-end machine learning project focused on detecting fraudulent credit card transactions in a highly imbalanced dataset.
+**Demonstrates:** business metrics, RAG, citations, workflow orchestration, FastAPI, Next.js, PostgreSQL/pgvector, evaluation, and reproducible testing.
 
-**Focus:** supervised learning, class imbalance, fraud-oriented metrics, model comparison and reproducible experimentation.
+[Repository](https://github.com/olcesefacundo97/adtech-campaign-intelligence-agent)
 
-**Skills:** Python, pandas, scikit-learn, machine learning, model evaluation, precision, recall, F1-score, ROC-AUC, PR-AUC.
+### Gemma Functional Analyst Copilot
+An AI-assisted workspace that turns requirements and meeting notes into structured delivery artifacts such as user stories, acceptance criteria, test cases, and risk summaries.
 
-[Open repository](https://github.com/olcesefacundo97/fraud-detection-ml)
+**Demonstrates:** requirements analysis, applied generative AI, prompt design, Python, FastAPI, React, and TypeScript.
 
----
+[Repository](https://github.com/olcesefacundo97/gemma-functional-analyst-copilot) · [Live demo](https://gemma-functional-analyst-copilot-cl.vercel.app)
 
-### 3. Formula 1 Interactive Dashboard
-Interactive dashboard built with Python and Streamlit to explore Formula 1 performance, circuits, rankings and predictive insights.
+### Formula 1 Interactive Dashboard
+A Streamlit dashboard for exploring driver and constructor performance, circuits, rankings, and race-related data through interactive visualizations.
 
-**Focus:** dashboard development, exploratory analysis, API/data processing, storytelling and visual insights.
+**Demonstrates:** Python, Pandas, data visualization, dashboard design, exploratory analysis, and data storytelling.
 
-**Skills:** Python, Streamlit, pandas, NumPy, visualization, data storytelling, basic machine learning.
+[Repository](https://github.com/olcesefacundo97/dashboard-f1-streamlit) · [Live demo](https://dashboard-f1-app-mw5qn2usae925pwjhrkumf.streamlit.app)
 
-[Open repository](https://github.com/olcesefacundo97/dashboard-f1-streamlit)
+### Credit Card Fraud Detection
+A reproducible machine learning workflow for an imbalanced classification problem, emphasizing model comparison and metrics that reflect fraud detection trade-offs.
 
----
+**Demonstrates:** Python, Scikit-learn, preprocessing, class imbalance, precision, recall, PR-AUC, and model evaluation.
 
-### 4. Retail Sales Business Analysis
-Business-oriented exploratory data analysis over a simulated retail dataset.
+[Repository](https://github.com/olcesefacundo97/fraud-detection-ml)
 
-**Focus:** revenue analysis, sales trends, product/category performance and actionable business recommendations.
+## Skills and tools
 
-**Skills:** Python, pandas, data cleaning, EDA, business insights, visualization.
-
-[Open project](./01-retail-sales-business-analysis/)
-
----
-
-### 5. Simple Data Pipeline
-End-to-end pipeline that extracts raw retail data, cleans and transforms it, and generates an analytics-ready dataset.
-
-**Focus:** data quality, transformation logic, reproducible workflow and clean outputs.
-
-**Skills:** Python, pandas, ETL, data validation, CSV processing.
-
-[Open project](./02-simple-data-pipeline/)
-
----
-
-### 6. Insights Dashboard with Python
-Dashboard-style analysis built with Python visualizations to communicate key metrics and support decisions.
-
-**Focus:** KPI analysis, charts, executive summary and recommendations.
-
-**Skills:** Python, pandas, matplotlib, storytelling with data.
-
-[Open project](./03-insights-dashboard-python/)
-
-## Tech Stack
-
-### Data & Analytics
-- Python
-- SQL
-- pandas
-- NumPy
-- Matplotlib
-- Power BI
-- PostgreSQL
-
-### Machine Learning & AI
-- scikit-learn
-- Machine Learning fundamentals
-- Model evaluation
-- Prompt engineering
-- Generative AI workflows
-
-### Engineering & Tools
-- FastAPI
-- Streamlit
-- APIs
-- Git / GitHub
-- Jira
-- Docker basics
-
-## What I Focus On
-
-I focus on building projects that are not only technically functional, but also useful from a business and product perspective:
-
-- Understanding the problem before writing code.
-- Cleaning and validating data before analyzing it.
-- Communicating insights clearly.
-- Building reproducible workflows.
-- Connecting business requirements with technical implementation.
-- Using AI as a tool to improve real delivery processes.
+- **Analysis and delivery:** requirements analysis, process documentation, functional testing, API testing with Postman, Jira, stakeholder coordination.
+- **Data:** Python, SQL, Pandas, PostgreSQL, data validation, exploratory analysis, KPI definition, visualization.
+- **Engineering and AI:** FastAPI, Streamlit, REST APIs, Docker, GitHub Actions, scikit-learn, generative AI workflows.
+- **Geospatial systems:** PostGIS, GeoServer, GeoNetwork, GIS APIs.
 
 ## Contact
 
-- Email: olcesefacundo97@gmail.com
-- LinkedIn: https://www.linkedin.com/in/olcesefacundo97
-- GitHub: https://github.com/olcesefacundo97
+For opportunities in Functional Analysis, Data Analytics, Data Engineering, and applied AI, connect with me on [LinkedIn](https://www.linkedin.com/in/olcesefacundo97).
